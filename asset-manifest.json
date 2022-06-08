@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/genspark-webform/static/css/main.13bdf8b2.css",
+    "main.js": "/genspark-webform/static/js/main.8e595cd9.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/genspark-webform/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/genspark-webform/index.html",
+    "main.13bdf8b2.css.map": "/genspark-webform/static/css/main.13bdf8b2.css.map",
+    "main.8e595cd9.js.map": "/genspark-webform/static/js/main.8e595cd9.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/genspark-webform/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13bdf8b2.css",
+    "static/js/main.8e595cd9.js"
+  ]
+}
